@@ -1,0 +1,21 @@
+.main {
+   background-image :url(./img/party.jfif);
+}
+.keihin {
+  list-style-type: none;
+  padding: 0; /* 左にできる隙間を消す */
+}
+.keihin {
+  color :black;
+  background-image: url(./img/party.gif);
+  background-size: contain;
+}
+.coment {
+  border: solid 1px #454545;
+  list-style-type: none;
+  padding: 0;
+  background-color: #f0e68c;
+}
+.pass {
+  background-image: url(./img/party.jfif);
+}
